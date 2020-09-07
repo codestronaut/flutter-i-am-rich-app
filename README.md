@@ -1,6 +1,7 @@
-# i_am_rich
+# I AM RICH
 
-A new Flutter project.
+Hi there!
+This is my project series with Flutter. I create this project for learning purpose. So, this is the first app in this series. I create app with three image and three buttons. The images will change base on the button click. This is pretty simple app but it's so beautiful.
 
 ## Getting Started
 
